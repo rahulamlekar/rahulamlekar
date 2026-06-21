@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Rahul 👋
+
+Passionate about building reliable and interpretable AI.
+
+- 🔭 I lead agentic evals and observability at Bloomberg, and on the side built an [intuitive intro to evals](https://learnevals.ai).
+- ⚡ I led [Windows AI APIs](https://learn.microsoft.com/en-us/windows/ai/apis/) at Microsoft.
+- 🛠️ I've built developer platforms my entire career, including in Azure as a software engineer.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulamlekar) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/rahulamlekar)
+
+
+![](https://komarev.com/ghpvc/?username=rahulamlekar&style=flat-square&style=pixel)
 
 <!--
 **rahulamlekar/rahulamlekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
